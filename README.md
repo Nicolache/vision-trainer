@@ -20,5 +20,5 @@ The more distant words you can read by your peripheral vision, the better.
 If you can't read words around it at all, it's possible you have vision problems.
 
 ## Supported operational systems
-Linux
+Linux  
 Windows with cygwin, or WSL
